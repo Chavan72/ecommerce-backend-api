@@ -146,4 +146,4 @@ APIs can be tested using Postman by sending JSON requests and validating HTTP st
 
 ## Author
 
-Add your name and GitHub profile here.
+Supriya Chavan https://github.com/Chavan72
