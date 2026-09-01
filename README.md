@@ -103,9 +103,9 @@ with your local MySQL credentials.
 
 ```json
 {
-  "name": "Rahul Patil",
-  "email": "rahul@example.com",
-  "phone": "9876543210"
+  "name": "Seeta patil",
+  "email": "patil@gmail.com",
+  "phone": "1234567890"
 }
 ```
 
